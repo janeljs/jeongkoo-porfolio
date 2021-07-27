@@ -4,7 +4,7 @@
 
   <p align="center">
 Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는  정적 포트폴리오 템플릿 입니다. Github 페이지로 호스팅 됩니다.
-    <br/>웹 사이트는 <a href="https://congchu.github.io/portfolio-1/">DEMO</a>에서 확인하실 수 있습니다.
+    <br/>웹 사이트는 <a href="https://www.jeongkoo.com">DEMO</a>에서 확인하실 수 있습니다.
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
@@ -52,11 +52,12 @@ git push - u origin master
 
 ## Deploy History 🌳
 
-2021-04-20
-
-- 프로젝트 생성
-
 2021-04-22
 
 - 전체 레이아웃 수정
 - header 사진 변경
+
+2021-04-20
+
+- 프로젝트 생성
+
